@@ -5,12 +5,7 @@ import java.util.ArrayList;
 import java.io.*;
 
 public class Util {
-    // Kullanıcıdan giriş almak için yardımcı bir sınıf oluşturabilirsiniz.
-    // Bu yapı, kodunuzu daha modüler ve düzenli hale getirir. 
-    // Her sınıfın kendi işlevi olduğu için kodun bakımı ve genişletilmesi 
-    // daha kolay olur. Her sınıfın içinde uygun metotları ve veri yapıları 
-    // ile ilgili kodları yazabilirsiniz.
-
+    
     public static Scanner scanner = new Scanner(System.in);
 
    
